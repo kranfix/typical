@@ -1,0 +1,5 @@
+export GOPATH=$HOME/go
+export GOBIN=$GOPATH/bin
+export GOPKG=$GOPATH/pkg
+export GOSRC=$GOPATH/src
+export PATH=$PATH:$GOBIN
