@@ -16,13 +16,14 @@ sudo yum install golang
 ```
 
 En Windows:
-```*Install:
-*[Go](https://golang.org/dl/)
-*Si tu sistema es de 64 bits buscar el instalador .msi
-*Panel de control>Sistema y seguridad>Sistema>Configuración avanzada del sistema>Variables de entorno>Variables del sistema>Nueva
-*Nombre de la variable:GOPATH, Valor de la variable: '&HOME'\go
-*Reiniciar el sistema
-```
+
+* Descargar [Go](https://golang.org/dl/)
+* Si tu sistema es de 64 bits buscar el instalador .msi
+* Panel de control>Sistema y seguridad>Sistema
+>Configuración avanzada del sistema>Variables de entorno
+>Variables del sistema>Nueva
+* Nombre de la variable:GOPATH, Valor de la variable: '&HOME'\go
+* Reiniciar el sistema
 
 
 # Configurar configuración de bashrc
