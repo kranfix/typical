@@ -17,7 +17,7 @@ sudo yum install golang
 
 # Configurar configuración de bashrc
 
-El archivo Makefile fue creado para facilitar la
+El archivo `Makefile` fue creado para facilitar la
 configuración de Golang y la creación de la estrcutura
 de archivos concerniente a ellas.
 
