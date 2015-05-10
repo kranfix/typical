@@ -41,3 +41,8 @@ las encontramos en:
 * [Bitbucket](https://help.github.com/articles/generating-ssh-keys/).
 * [Launchpad](https://help.github.com/articles/generating-ssh-keys/).
 
+# Manual de instalación
+
+* [Git](git_instalacion.md)
+* [Mercurial](hg_instalacion.md)
+* Bazaar
