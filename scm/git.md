@@ -1,4 +1,4 @@
-GT - Gestor de versiones
+GIT - Gestor de versiones
 =========================
 
 ## Instalación
