@@ -24,9 +24,11 @@ sudo apt install git
 
 ### En MS Windows
 
-Descargar la versión para Windows desde .....
+Descargar la versión para Windows desde
+[aquí](https://git-scm.com/download/win)
 
-Iniciar descarga
+Descargar e instalar. Verificar la instalación de
+`Git GUI` y `Git Bash`.
 
 ## Configuración global de git
 
