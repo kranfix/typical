@@ -3,19 +3,37 @@ GOLANG
 
 # Instalación
 
-En Ubuntu:
+### En Ubuntu:
 
 ```bash
 sudo apt install golang
 ```
 
-En Fedora:
+### En Fedora:
 
 ```bash
 sudo yum install golang
 ```
 
-En Windows:
+### En general:
+
+Verificar cual es el última versión estable de Go en:
+```
+https://golang.org/dl/
+```
+
+En caso Go esté instalado, eliminar la carpeta de instalación
+```bash
+sudo rm -rf /usr/local/go
+```
+
+Descargar la versión más actual e instalar
+```bash
+wget https://storage.googleapis.com/golang/go1.5.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.5.linux-amd64.tar.gz
+```
+
+### En Windows:
 
 * Descargar [Go](https://golang.org/dl/)
 * Si tu sistema es de 64 bits buscar el instalador .msi
